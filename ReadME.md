@@ -86,6 +86,7 @@ If both assignments are in one file (e.g., `main.py`), simply run:
 ```bash
 python main.py
 
+
 Option 2: Separate Files
 
 Alternatively, you can keep them separate:
