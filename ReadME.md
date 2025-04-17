@@ -10,25 +10,6 @@ This repository contains two Python assignments that demonstrate key object-orie
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Assignment 1: Chocolate Showcase](#assignment-1-chocolate-showcase)
-  - [Concepts Covered](#concepts-covered)
-  - [Classes and Features](#classes-and-features)
-  - [Usage](#usage)
-- [Assignment 2: Vehicle Polymorphism Challenge](#assignment-2-vehicle-polymorphism-challenge)
-  - [Concepts Covered](#concepts-covered-1)
-  - [Classes and Features](#classes-and-features-1)
-  - [Usage](#usage-1)
-- [Prerequisites](#prerequisites)
-- [Running the Code](#running-the-code)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## Overview
 
